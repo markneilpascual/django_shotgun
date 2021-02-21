@@ -1,12 +1,13 @@
 # django_shotgun
 
-
-# How to install:
+set-up you enviroment
 
 virtualenv env
 
-# activate your enviroment
 
-Install packages with pip: -r requirements.txt
+
+
+activate your enviroment
+install packages with pip: -r requirements.txt
 
 pip install -r requirements.txt
