@@ -2,7 +2,7 @@
 
 1. set-up your virtual enviroment
 
-    virtualenv env
+            virtualenv env
 
 
 
@@ -10,4 +10,4 @@
 
 3. install packages with pip: -r requirements.txt
 
-    pip install -r requirements.txt
+            pip install -r requirements.txt
