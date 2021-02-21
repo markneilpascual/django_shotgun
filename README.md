@@ -1,6 +1,6 @@
 # django_shotgun
 
-1. set-up you enviroment
+1. set-up your virtual enviroment
 
 virtualenv env
 
