@@ -1,0 +1,20 @@
+manual
+
+cd(windows cmd) = cd(linux)
+mkdir(windows cmd) = mkdir(linux)
+dir(windows cmd) = ls(linux)
+call(windows cmd) = source(linux)
+
+python --version
+pip list
+pip install virtualenv
+virtualenv env
+pip install django
+pip list
+django-admin startproject yourprojectname
+python manage.py runserver
+
+congratulation
+
+python manage.py startapp yourappname
+
